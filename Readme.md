@@ -32,5 +32,4 @@ Bunun faydası şudur. Bileşen içinde tanımladığımız işlevler, o bileşe
 _Çünkü bileşenler işlev olarak aldığı propsların referanslarını karşılaştırarak değişip değişmediğini hesaplar._
 
 
-_Yararlandığım kaynaklar:_
-[https://aykutkardas.medium.com/react-memo-usememo-ve-usecallback-nedir](https://aykutkardas.medium.com/react-memo-usememo-ve-usecallback-nedir-31ccbdcb76c6#:~:text=Memoization%20da%20bahsetti%C4%9Fimiz%20tekni%C4%9Fin%20React,girdilerini%20tutan%20bir%20deps%20dizisidir.)
+
